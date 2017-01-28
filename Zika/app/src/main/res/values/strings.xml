@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Zika</string>
+    <string name="app_name">Mosquito Awareness</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="search">Search</string>
+    <string-array name="virus_array">
+        <item>All</item>
+        <item>Zika</item>
+        <item>Malaria</item>
+    </string-array>
+
 </resources>
